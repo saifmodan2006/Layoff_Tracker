@@ -1,0 +1,34 @@
+<svg width="720" height="260" viewBox="0 0 720 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0e4ea8"/>
+      <stop offset="100%" stop-color="#071832"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff7a18"/>
+      <stop offset="100%" stop-color="#ffd166"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="718" height="258" rx="28" fill="rgba(0,0,0,0)"/>
+  <circle cx="138" cy="132" r="76" fill="url(#bg)" stroke="#124d9b" stroke-width="5"/>
+  <path d="M138 57c-26 0-49 10-66 27l132 132c17-17 27-40 27-66 0-51-41-93-93-93Z" fill="#1d66c2" opacity="0.5"/>
+  <path d="M72 84h132M64 118h150M78 152h122M106 186h74" stroke="#4ea0ff" stroke-width="3" opacity="0.55"/>
+  <path d="M118 64c-18 20-29 47-29 76 0 9 1 17 3 25M159 61c18 20 29 47 29 76 0 9-1 17-3 25M86 95h104M80 129h116" stroke="#d7ecff" stroke-width="4" opacity="0.45"/>
+  <path d="M76 95l40 10 16 27 26-12 18 28 20-10 20 32" stroke="#ff6a00" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 95l40 10 16 27 26-12 18 28 20-10 20 32" stroke="#fff2e0" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M310 78h248c40 0 72 32 72 72s-32 72-72 72H310c-40 0-72-32-72-72s32-72 72-72Z" fill="#0d2d63"/>
+  <path d="M340 101h204c21 0 39 18 39 39s-18 39-39 39H340c-21 0-39-18-39-39s18-39 39-39Z" fill="#173e84"/>
+  <path d="M340 101h160l44 78H340c-21 0-39-18-39-39s18-39 39-39Z" fill="#0a3a92" opacity="0.92"/>
+  <text x="366" y="157" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="72" font-style="italic" font-weight="800">Global</text>
+  <path d="M324 186h286" stroke="#f0f0f0" stroke-width="3" opacity="0.55"/>
+  <text x="336" y="216" fill="#ff9f1c" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="800">LAYOFF</text>
+  <text x="493" y="216" fill="#f4f7fb" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700">TRACKER</text>
+  <g fill="#111111" stroke="#f7f7f7" stroke-width="3">
+    <circle cx="222" cy="166" r="14"/>
+    <circle cx="255" cy="154" r="16"/>
+    <circle cx="288" cy="166" r="13"/>
+    <path d="M214 226c0-20 8-38 8-38h0s14 6 16 6 16-6 16-6h0s8 18 8 38"/>
+    <path d="M247 226c0-20 8-40 8-40h0s14 6 16 6 16-6 16-6h0s8 20 8 40"/>
+    <path d="M280 226c0-20 7-37 7-37h0s12 5 14 5 14-5 14-5h0s7 17 7 37"/>
+  </g>
+</svg>
